@@ -4,5 +4,6 @@
 Responsive design for a seamless user experience on any device.
 JavaScript logic for player turns and win detection.
 Clean and stylish UI with CSS to enhance the gaming experience.
+Deployed using FIREBASE
 
 Demo:-https://tik-tak-toe-1012.web.app
